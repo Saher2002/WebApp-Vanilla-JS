@@ -5,7 +5,7 @@ Features
 - Copy the selected color code  
 - Background dynamically changes to the selected color
 
-License
+License:
 This project is open-source and free to use.
 
 
